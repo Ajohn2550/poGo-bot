@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Ajohn2550/poGo-bot/issues"
   },
-  "homepage": "https://github.com/Ajohn2550/poGo-bot#readme"
+  "homepage": "https://github.com/Ajohn2550/poGo-bot#readme",
+  "dependencies": {
+    "discord.js": "^8.0.0"
+  }
 }
