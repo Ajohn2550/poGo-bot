@@ -1,0 +1,23 @@
+{
+  "name": "azpogo-bot",
+  "version": "1.0.0",
+  "description": "Bot used by AzPoGo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajohn2550/poGo-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "pokemon"
+  ],
+  "author": "ajohn2550",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Ajohn2550/poGo-bot/issues"
+  },
+  "homepage": "https://github.com/Ajohn2550/poGo-bot#readme"
+}
